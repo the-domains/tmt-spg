@@ -1,6 +1,6 @@
 name: TMT~spg
 favicon: null
-layout_spectrum: 0.09278098028153181
+layout_spectrum: 0.74203
 typography_spectrum: 0.3917396978940815
 title: TMT ~ special projects group
 cta:
@@ -16,9 +16,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.6720909988507628
+  brandColors:
+    - '#000000'
+    - '#ef0937'
+    - '#0aef0c'
+    - '#f9f9f9'
+    - '#8e8e8e'
+  brandStrength: 1
   lightness: 0.6149256806820631
-  saturation: 0.009885800071060658
+  saturation: 0.4375
   rhythmicContrast: 0.5946252483408898
 purpose: []
